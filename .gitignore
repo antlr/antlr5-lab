@@ -23,3 +23,6 @@
 hs_err_pid*
 target/
 nohup.out
+static
+web
+antlr4-lab.iml
